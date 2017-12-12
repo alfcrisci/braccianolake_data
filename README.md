@@ -2,8 +2,9 @@
 
 Gis Data relative to lake of bracciano ( RM)  supporting [*Bracciano SmartLake initiative*](https://braccianosmartlake.com/) managed by Emanuele Perugini & Guido Tocco.
 
-Authors: Alfonso Crisci & Massimo Perna [IBIMET CNR](http://www.ibimet.cnr.it) 
-Data: ISTAT administrative boundaries, Lake Catchment basin and 5 meter DEM ( digital elevation model) obtained troughout TIN interpolation by using elevation data retrieved from [OpenData Lazio](https://dati.lazio.it/). The elevation data are available in repository.
+*Author*: Alfonso Crisci [IBIMET CNR](http://www.ibimet.cnr.it) and & Massimo Perna [Consorzio LaMMA](http://www.lamma.rete.toscana.it/) 
+
+*Data*: ISTAT administrative boundaries, Lake Catchment basin and 5 meter DEM ( digital elevation model) obtained troughout TIN interpolation by using elevation data retrieved from [OpenData Lazio](https://dati.lazio.it/). The elevation data are available in repository.
 
 
 
