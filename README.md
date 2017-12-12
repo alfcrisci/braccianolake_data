@@ -1,5 +1,7 @@
 # Bracciano Lake Open Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1108593.svg)](https://doi.org/10.5281/zenodo.1108593)
+
 Gis Data relative to lake of bracciano ( RM)  supporting [*Bracciano SmartLake initiative*](https://braccianosmartlake.com/) managed by Emanuele Perugini & Guido Tocco.
 
 *Author*: Alfonso Crisci [IBIMET CNR](http://www.ibimet.cnr.it) and & Massimo Perna [Consorzio LaMMA](http://www.lamma.rete.toscana.it/) 
